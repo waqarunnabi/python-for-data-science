@@ -1,0 +1,132 @@
+﻿city,province,country,total_pop,urban_pop,rural_pop,total_male,total_female,total_trans
+Abbottabad,Khyber Pakhtunkhwa,Pakistan,"1,332,912","293,137","1,039,775","677,570","655,281",61
+Attock,Punjab,Pakistan,"1,883,556","490,006","1,393,550","936,811","946,683",62
+Awaran,Balochistan,Pakistan,"121,680","34,244","87,436","63,023","58,657",0
+Badin,Sindh,Pakistan,"1,804,516","390,378","1,414,138","932,488","871,979",49
+Bahawalnagar,Punjab,Pakistan,"2,981,919","621,096","2,360,823","1,514,866","1,466,876",177
+Bahawalpur,Punjab,Pakistan,"3,668,106","1,171,258","2,496,848","1,879,311","1,788,578",217
+Bajaur,Khyber Pakhtunkhwa,Pakistan,"1,093,684",0,"1,093,684","557,160","536,520",4
+Bannu,Khyber Pakhtunkhwa,Pakistan,"1,167,892","49,965","1,117,927","593,492","574,391",9
+Barkhan,Balochistan,Pakistan,"171,556","12,176","159,380","90,196","81,359",1
+Batagram,Khyber Pakhtunkhwa,Pakistan,"476,612",0,"476,612","238,209","238,393",10
+Bhakkar,Punjab,Pakistan,"1,650,518","260,114","1,390,404","844,247","806,235",36
+Buner,Khyber Pakhtunkhwa,Pakistan,"897,319",0,"897,319","446,997","450,317",5
+Chagai,Balochistan,Pakistan,"226,008","16,319","209,689","118,486","107,522",0
+Chakwal,Punjab,Pakistan,"1,495,982","283,940","1,212,042","724,205","771,744",33
+Charsadda,Khyber Pakhtunkhwa,Pakistan,"1,616,198","270,175","1,346,023","820,520","795,657",21
+Chiniot,Punjab,Pakistan,"1,369,740","422,538","947,202","700,601","669,057",82
+Chitral,Khyber Pakhtunkhwa,Pakistan,"447,362","49,794","397,568","225,846","221,515",1
+Dadu,Sindh,Pakistan,"1,550,266","383,169","1,167,097","797,857","752,385",24
+Dera Bugti,Balochistan,Pakistan,"312,603","99,301","213,302","163,836","148,767",0
+Dera Ghazi Khan,Punjab,Pakistan,"2,872,201","547,855","2,324,346","1,450,105","1,422,023",73
+Dera Ismail Khan,Khyber Pakhtunkhwa,Pakistan,"1,627,132","362,231","1,264,901","838,793","788,294",45
+Faisalabad,Punjab,Pakistan,"7,873,910","3,760,328","4,113,582","4,034,515","3,838,854",541
+FR Bannu,Khyber Pakhtunkhwa,Pakistan,"43,114",0,"43,114","22,298","20,816",0
+FR Dera Ismail Khan,Khyber Pakhtunkhwa,Pakistan,"68,556",0,"68,556","35,361","33,195",0
+FR Kohat,Khyber Pakhtunkhwa,Pakistan,"118,578",0,"118,578","59,733","58,845",0
+FR Lakki Marwat,Khyber Pakhtunkhwa,Pakistan,"26,359",0,"26,359","13,612","12,747",0
+FR Peshawar,Khyber Pakhtunkhwa,Pakistan,"64,691",0,"64,691","31,563","33,128",0
+FR Tank,Khyber Pakhtunkhwa,Pakistan,"36,389",0,"36,389","18,785","17,604",0
+Ghotki,Sindh,Pakistan,"1,646,318","403,538","1,242,780","849,226","797,051",41
+Gujranwala,Punjab,Pakistan,"5,014,196","2,948,936","2,065,260","2,533,117","2,480,828",251
+Gujrat,Punjab,Pakistan,"2,756,110","827,396","1,928,714","1,335,339","1,420,628",143
+Gwadar,Balochistan,Pakistan,"263,514","161,599","101,915","141,771","121,728",15
+Hafizabad,Punjab,Pakistan,"1,156,957","402,851","754,106","584,823","572,083",51
+Hangu,Khyber Pakhtunkhwa,Pakistan,"518,798","102,440","416,358","249,554","269,237",8
+Haripur,Khyber Pakhtunkhwa,Pakistan,"1,003,031","126,577","876,454","498,481","504,483",67
+Harnai,Balochistan,Pakistan,"97,017","24,554","72,463","51,909","45,108",0
+Hyderabad,Sindh,Pakistan,"2,199,463","1,832,755","366,708","1,145,788","1,053,510",165
+Islamabad,Federal Capital Territory,Pakistan,"2,006,572","1,014,825","991,747","1,055,712","950,727",133
+Jacobabad,Sindh,Pakistan,"1,006,297","297,127","709,170","515,480","490,778",39
+Jaffarabad,Balochistan,Pakistan,"513,813","158,005","355,808","262,336","251,467",10
+Jamshoro,Sindh,Pakistan,"993,142","434,187","558,955","523,259","469,839",44
+Jhal Magsi,Balochistan,Pakistan,"149,225","7,825","141,400","76,902","72,322",1
+Jhang,Punjab,Pakistan,"2,743,416","598,190","2,145,226","1,396,612","1,346,660",144
+Jhelum,Punjab,Pakistan,"1,222,650","354,202","868,448","601,964","620,636",50
+Kachhi,Balochistan,Pakistan,"237,030","34,432","202,598","126,379","110,651",0
+Kalat,Balochistan,Pakistan,"412,232","72,458","339,774","211,695","200,536",1
+Karachi City,Sindh,Pakistan,16051521,"14,910,352","1,141,169",8439659,7610365,1497
+Karak,Khyber Pakhtunkhwa,Pakistan,"706,299","51,149","655,150","349,433","356,863",3
+Kashmore,Sindh,Pakistan,"1,089,169","253,613","835,556","564,843","524,307",19
+Kasur,Punjab,Pakistan,"3,454,996","890,835","2,564,161","1,790,253","1,664,606",137
+Kech,Balochistan,Pakistan,"909,116","302,136","606,980","494,443","414,663",10
+Khairpur,Sindh,Pakistan,"2,404,334","775,850","1,628,484","1,240,424","1,163,806",104
+Khanewal,Punjab,Pakistan,"2,921,986","564,076","2,357,910","1,484,692","1,437,171",123
+Kharan,Balochistan,Pakistan,"156,152","44,655","111,497","80,805","75,347",0
+Khushab,Punjab,Pakistan,"1,281,299","352,830","928,469","638,071","643,181",47
+Khuzdar,Balochistan,Pakistan,"802,207","277,136","525,071","421,268","380,939",0
+Khyber,Khyber Pakhtunkhwa,Pakistan,"986,973","97,540","889,433","505,475","481,487",11
+Killa Abdullah,Balochistan,Pakistan,"757,578","149,342","608,236","397,591","359,982",5
+Killa Saifullah,Balochistan,Pakistan,"342,814","62,743","280,071","181,870","160,944",0
+Kohat,Khyber Pakhtunkhwa,Pakistan,"993,874","270,146","723,728","496,593","497,238",43
+Kohistan,Khyber Pakhtunkhwa,Pakistan,"784,711",0,"784,711","434,956","349,746",9
+Kohlu,Balochistan,Pakistan,"214,350","17,426","196,924","112,142","102,208",0
+Kurram,Khyber Pakhtunkhwa,Pakistan,"619,553","39,997","579,556","308,704","310,846",3
+Lahore,Punjab,Pakistan,"11,126,285","11,126,285",0,"5,824,131","5,300,931","1,223"
+Lakki Marwat,Khyber Pakhtunkhwa,Pakistan,"876,182","89,420","786,762","441,816","434,357",9
+Larkana,Sindh,Pakistan,"1,524,391","701,637","822,754","778,249","746,093",49
+Las Bela,Balochistan,Pakistan,"574,292","279,244","295,048","299,299","274,985",8
+Layyah,Punjab,Pakistan,"1,824,230","321,505","1,502,725","925,333","898,817",80
+Lehri,Balochistan,Pakistan,"118,046","16,608","101,438","61,495","56,549",2
+Lodhran,Punjab,Pakistan,"1,700,620","265,710","1,434,910","862,663","837,873",84
+Loralai,Balochistan,Pakistan,"397,400","64,938","332,462","212,451","184,948",1
+Lower Dir,Khyber Pakhtunkhwa,Pakistan,"1,435,917","40,373","1,395,544","710,335","725,576",6
+Malakand PA,Khyber Pakhtunkhwa,Pakistan,"720,295","68,200","652,095","362,089","358,203",3
+Mandi Bahauddin,Punjab,Pakistan,"1,593,292","326,400","1,266,892","776,205","816,971",116
+Mansehra,Khyber Pakhtunkhwa,Pakistan,"1,556,460","144,855","1,411,605","772,123","784,181",156
+Mardan,Khyber Pakhtunkhwa,Pakistan,"2,373,061","439,325","1,933,736","1,200,871","1,172,112",78
+Mastung,Balochistan,Pakistan,"266,461","35,129","231,332","137,963","128,498",0
+Matiari,Sindh,Pakistan,"769,349","182,590","586,759","396,799","372,518",32
+Mianwali,Punjab,Pakistan,"1,546,094","328,395","1,217,699","774,060","771,995",39
+Mirpur Khas,Sindh,Pakistan,"1,505,876","425,752","1,080,124","778,172","727,650",54
+Mohmand,Khyber Pakhtunkhwa,Pakistan,"466,984",0,"466,984","238,003","228,981",0
+Multan,Punjab,Pakistan,"4,745,109","2,058,290","2,686,819","2,437,412","2,307,504",193
+Musakhel,Balochistan,Pakistan,"167,017","14,138","152,879","90,240","76,777",0
+Muzaffargarh,Punjab,Pakistan,"4,322,009","694,771","3,627,238","2,218,744","2,103,132",133
+Nankana Sahib,Punjab,Pakistan,"1,356,374","246,053","1,110,321","691,944","664,359",71
+Narowal,Punjab,Pakistan,"1,709,757","257,248","1,452,509","841,950","867,712",95
+Nasirabad,Balochistan,Pakistan,"490,538","96,591","393,947","252,878","237,651",9
+Naushahro Feroze,Sindh,Pakistan,"1,612,373","379,802","1,232,571","832,569","779,747",57
+North Waziristan,Khyber Pakhtunkhwa,Pakistan,"543,254","4,361","538,893","280,232","263,015",7
+Nowshera,Khyber Pakhtunkhwa,Pakistan,"1,518,540","338,650","1,179,890","781,722","736,778",40
+Nushki,Balochistan,Pakistan,"178,796","46,386","132,410","92,430","86,366",0
+Okara,Punjab,Pakistan,"3,039,139","831,790","2,207,349","1,564,476","1,474,495",168
+Orakzai,Khyber Pakhtunkhwa,Pakistan,"254,356",0,"254,356","127,477","126,879",0
+Pakpattan,Punjab,Pakistan,"1,823,687","288,096","1,535,591","927,881","895,656",150
+Panjgur,Balochistan,Pakistan,"316,385","80,324","236,061","166,731","149,654",0
+Peshawar,Khyber Pakhtunkhwa,Pakistan,"4,269,079","1,970,042","2,299,037","2,201,257","2,067,591",231
+Pishin,Balochistan,Pakistan,"736,481","143,142","593,339","379,122","357,356",3
+Qambar Shahdadkot,Sindh,Pakistan,"1,341,042","397,564","943,478","682,859","658,148",35
+Quetta,Balochistan,Pakistan,"2,275,699","1,001,205","1,274,494","1,193,913","1,081,755",31
+Rahim Yar Khan,Punjab,Pakistan,"4,814,006","1,032,636","3,781,370","2,467,840","2,345,938",228
+Rajanpur,Punjab,Pakistan,"1,995,958","337,202","1,658,756","1,028,015","967,878",65
+Rawalpindi,Punjab,Pakistan,"5,405,633","2,875,516","2,530,117","2,741,872","2,663,075",686
+Sahiwal,Punjab,Pakistan,"2,517,560","517,120","2,000,440","1,281,072","1,236,369",119
+Sanghar,Sindh,Pakistan,"2,057,057","588,405","1,468,652","1,064,484","992,509",64
+Sargodha,Punjab,Pakistan,"3,703,588","1,091,045","2,612,543","1,872,170","1,831,114",304
+Shaheed Benazirabad,Sindh,Pakistan,"1,612,847","489,337","1,123,510","833,935","778,883",29
+Shangla,Khyber Pakhtunkhwa,Pakistan,"757,810",0,"757,810","385,471","372,338",1
+Sheerani,Balochistan,Pakistan,"153,116",0,"153,116","84,994","68,115",7
+Sheikhupura,Punjab,Pakistan,"3,460,426","1,201,790","2,258,636","1,789,956","1,670,310",160
+Shikarpur,Sindh,Pakistan,"1,231,481","303,249","928,232","634,985","596,477",19
+Sialkot,Punjab,Pakistan,"3,893,672","1,143,362","2,750,310","1,921,643","1,971,746",283
+Sibi,Balochistan,Pakistan,"135,572","64,427","71,145","71,652","63,918",2
+Sohbatpur,Balochistan,Pakistan,"200,538","12,867","187,671","103,142","97,396",0
+South Waziristan,Khyber Pakhtunkhwa,Pakistan,"679,185",0,"679,185","357,889","321,294",2
+Sujawal,Sindh,Pakistan,"781,967","85,705","696,262","406,754","375,193",20
+Sukkur,Sindh,Pakistan,"1,487,903","720,115","767,788","776,259","711,587",57
+Swabi,Khyber Pakhtunkhwa,Pakistan,"1,624,616","275,925","1,348,691","815,526","809,047",43
+Swat,Khyber Pakhtunkhwa,Pakistan,"2,309,570","695,900","1,613,670","1,172,974","1,136,544",52
+Tando Allah Yar,Sindh,Pakistan,"836,887","261,793","575,094","432,746","404,112",29
+Tando Muhammad Khan,Sindh,Pakistan,"677,228","142,050","535,178","350,010","327,202",16
+Tank,Khyber Pakhtunkhwa,Pakistan,"391,885","47,165","344,720","200,687","191,194",4
+Tharparkar,Sindh,Pakistan,"1,649,661","132,071","1,517,590","882,365","767,266",30
+Thatta,Sindh,Pakistan,"979,817","176,058","803,759","510,279","469,504",34
+Toba Tek Singh,Punjab,Pakistan,"2,190,015","441,930","1,748,085","1,100,048","1,089,829",138
+Tor Ghar,Khyber Pakhtunkhwa,Pakistan,"171,395",0,"171,395","86,157","85,230",8
+Umerkot,Sindh,Pakistan,"1,073,146","243,361","829,785","557,557","515,569",20
+Upper Dir,Khyber Pakhtunkhwa,Pakistan,"946,421","44,165","902,256","466,173","480,247",1
+Vehari,Punjab,Pakistan,"2,897,446","505,703","2,391,743","1,462,027","1,435,212",207
+Washuk,Balochistan,Pakistan,"176,206","21,872","154,334","92,031","84,175",0
+Zhob,Balochistan,Pakistan,"310,544","46,248","264,296","168,358","142,186",0
+Ziarat,Balochistan,Pakistan,"160,422","3,406","157,016","82,302","78,117",3
