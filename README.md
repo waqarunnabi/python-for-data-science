@@ -6,4 +6,4 @@
 
 # Overview
 
-This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by codenics and Scholership Network. Pakistan This course is for everyone who want to make their carrer/graphs/scientific Publication Chart in data science. The instructor was Dr. Ammar Tufail.
+This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by codenics and Scholership Network. Pakistan This course is for everyone who want to make their carrer/graphs/scientific Publication Chart in data science. The instructor was Dr. Ammar Tufail..
