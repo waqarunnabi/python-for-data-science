@@ -1,5 +1,5 @@
 # Python-with-Baba-Ammar
-## Basic to advance of Python for Data Science And Machine Learning Course
+## Basic of Python for Data Science Course
 ## Email : waqarunnabi@outlook.com
 ## Resources : YouTube
 ## Instructor : Dr. Muhammad Ammar Tufail
